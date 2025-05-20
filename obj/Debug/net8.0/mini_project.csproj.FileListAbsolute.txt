@@ -1,0 +1,14 @@
+/Users/prg/mini_project/bin/Debug/net8.0/mini_project
+/Users/prg/mini_project/bin/Debug/net8.0/mini_project.deps.json
+/Users/prg/mini_project/bin/Debug/net8.0/mini_project.runtimeconfig.json
+/Users/prg/mini_project/bin/Debug/net8.0/mini_project.dll
+/Users/prg/mini_project/bin/Debug/net8.0/mini_project.pdb
+/Users/prg/mini_project/obj/Debug/net8.0/mini_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prg/mini_project/obj/Debug/net8.0/mini_project.AssemblyInfoInputs.cache
+/Users/prg/mini_project/obj/Debug/net8.0/mini_project.AssemblyInfo.cs
+/Users/prg/mini_project/obj/Debug/net8.0/mini_project.csproj.CoreCompileInputs.cache
+/Users/prg/mini_project/obj/Debug/net8.0/mini_project.dll
+/Users/prg/mini_project/obj/Debug/net8.0/refint/mini_project.dll
+/Users/prg/mini_project/obj/Debug/net8.0/mini_project.pdb
+/Users/prg/mini_project/obj/Debug/net8.0/mini_project.genruntimeconfig.cache
+/Users/prg/mini_project/obj/Debug/net8.0/ref/mini_project.dll
